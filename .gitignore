@@ -1,0 +1,14 @@
+# macOS / Windows
+.DS_Store
+Thumbs.db
+__MACOSX/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 临时产物
+.cache/
+*.zip
